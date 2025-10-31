@@ -10,7 +10,6 @@ public class LargestNumber {
                 largest = arr[i];
             }
         }
-
         System.out.printf("The largest number in the array is %d", largest);
     }
 }
